@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @violaClara
+# 👋 Hi, I’m @violaClara
 - 👀 I’m interested in coding, movie, and music
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on small projects
